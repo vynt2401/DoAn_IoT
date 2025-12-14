@@ -99,7 +99,14 @@ app.o: ../app.c \
  c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\emlib\inc\sli_em_cmu.h \
  c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\emlib\inc\em_core.h \
  c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\emlib\inc\em_core_generic.h \
- c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\service\udelay\inc\sl_udelay.h
+ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\service\udelay\inc\sl_udelay.h \
+ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\hardware\board\inc\sl_board_control.h \
+ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\glib\glib.h \
+ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\glib\glib_color.h \
+ C:\Users\AD\SimplicityStudio\v5_workspace\test1\config/glib_config.h \
+ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\dmd\dmd.h \
+ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\em_types.h \
+ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\dmd\dmd.h
 c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\common\toolchain\inc\sl_gcc_preinclude.h:
 c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\emlib\inc\em_common.h:
 c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\device\siliconlabs\efr32mg21\include\em_device.h:
@@ -202,3 +209,10 @@ c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\pl
 c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\emlib\inc\em_core.h:
 c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\emlib\inc\em_core_generic.h:
 c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\service\udelay\inc\sl_udelay.h:
+c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\hardware\board\inc\sl_board_control.h:
+c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\glib\glib.h:
+c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\glib\glib_color.h:
+C:\Users\AD\SimplicityStudio\v5_workspace\test1\config/glib_config.h:
+c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\dmd\dmd.h:
+c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\em_types.h:
+c:\users\ad\downloads\iot\simplicity_sdk_suite_v2024_6_2-001\simplicity_sdk_5\platform\middleware\glib\dmd\dmd.h:
